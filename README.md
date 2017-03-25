@@ -1,2 +1,2 @@
-# PropResNet
-Proportional Deep Residual Learning for Image Recognition
+# AltResNets
+Alternative Deep Residual Learning for Image Recognition
